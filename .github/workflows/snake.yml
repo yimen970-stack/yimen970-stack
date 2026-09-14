@@ -2,16 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # በየ 12 ሰዓቱ ይሰራል
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          # እዚህ ጋር አዲሱን Username ህን ማስገባት አለብህ
           github_user_name: yimen970-stack
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -19,7 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # v31 የሚለውን ወደ v3.1.0 ወይም v4 ቀይረው
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
