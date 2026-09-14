@@ -1,4 +1,4 @@
-## Hi Yimen👋
+##  I am Yimen Anmaw👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32&height=180&section=header&text=Yimen%20Anmaw&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
