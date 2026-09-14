@@ -7,7 +7,7 @@
   <p><i>Building modern web applications with a focus on clean code & scalable systems.</i></p>
 
   <p>
-    <a href="mailto:yimenanmaw711@gmail.com"><img src="https://img.shields.io/badge/Email-yimenanmaw711%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:yimenanmaw970@gmail.com"><img src="https://img.shields.io/badge/Email-yimenanmaw970%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Woldia%2C%20Ethiopia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   </p>
 </div>
@@ -18,12 +18,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="260" alt="Coding GIF" />
 
-* 🎓 **Education:** Software Engineering Student at **Woldia University**
-* 💻 **Tech Stack:** React, Node.js, PHP, Laravel, C++, & MySQL
-* 🔭 **Current Focus:** Full-stack web development (React & Node.js)
-* 🌱 **Currently Learning:** Advanced Laravel architecture & AI integration
-* 🤝 **Open for:** Open-source collaborations & innovative projects
-* 💬 **Ask me about:** Web Development, Databases, & Problem Solving
+🎓 **Education** &nbsp;::&nbsp; Software Engineering Student at **Woldia University** 💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, Laravel, C++, & MySQL  
+🔭 **Current Focus** &nbsp;::&nbsp; Full-stack Web Development (React & Node.js)  
+🌱 **Currently Learning** &nbsp;::&nbsp;Advanced Laravel Architecture & AI Integrations, next.js, flutter
+🤝 **Open For** &nbsp;::&nbsp; Open-Source Collaborations & Innovative Projects  
+💬 **Ask Me About** &nbsp;::&nbsp; Web Development, Databases, & Problem Solving  
 
 <br clear="both" />
 
@@ -72,9 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yimencodehub/Yimencodehub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yimen970-stack/yimen970-stack/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 <br>
 
 <div align="center">
