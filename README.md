@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Yimen👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32&height=180&section=header&text=Yimen%20Anmaw&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
@@ -18,7 +18,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="260" alt="Coding GIF" />
 
-🎓 **Education** &nbsp;::&nbsp; Software Engineering Student at **Woldia University** 💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, Laravel, C++, & MySQL  
+🎓 **Education** &nbsp;::&nbsp; Software Engineering Student at **Woldia University** 
+💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, Laravel, C++, & MySQL  
 🔭 **Current Focus** &nbsp;::&nbsp; Full-stack Web Development (React & Node.js)  
 🌱 **Currently Learning** &nbsp;::&nbsp;Advanced Laravel Architecture & AI Integrations, next.js, flutter
 🤝 **Open For** &nbsp;::&nbsp; Open-Source Collaborations & Innovative Projects  
