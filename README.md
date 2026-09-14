@@ -21,7 +21,7 @@
 🎓 **Education** &nbsp;::&nbsp; Software Engineering Student at **Woldia University** <br>
 💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, Laravel, C++, & MySQL  
 🔭 **Current Focus** &nbsp;::&nbsp; Full-stack Web Development (React & Node.js)  
-🌱 **Currently Learning** &nbsp;::&nbsp;Advanced Laravel Architecture & AI Integrations, next.js, flutter
+🌱 **Currently Learning** &nbsp;::&nbsp;Advanced Laravel Architecture & AI Integrations, <br> next.js, flutter<br>
 🤝 **Open For** &nbsp;::&nbsp; Open-Source Collaborations & Innovative Projects  
 💬 **Ask Me About** &nbsp;::&nbsp; Web Development, Databases, & Problem Solving  
 
