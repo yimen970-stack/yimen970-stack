@@ -64,8 +64,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yimencodehub&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yimencodehub&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yimen970-stack&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yimen970-stack&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
